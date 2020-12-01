@@ -5,17 +5,32 @@
 
 In this project, the analyst will analyze local and global temperature data and compare the temperature trends where they live to overall global temperature trends.
 
+[Project 1 Submittal](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_1_Explore_Weather_Trends.pdf)
+
+[Project 1 Review](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_1_Instructor_Review.pdf)
+
 #### Project 2 - Investigate a Data Set
 
 In this project, the analyst will choose one of Udacity's curated datasets and investigate it using NumPy and pandas. They will go through the entire data analysis process, starting by posing a question and finishing by sharing their findings.
+
+[Project 2 Submittal](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_2_Investigate_a_Dataset.pdf)
+
+[Project 2 Review](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_2_Instructor_Review.pdf)
 
 #### Project 3 - Analyze A/B Test Results
 
 In this project, the analyste will be working to understand the results of an A/B test run by an e-commerce website.  They will use the necessary statistical tools required to perform and interpret the A/B test.
 
-#### Project 4 - Wrangle and Analyze Data
+[Project 3 Submittal](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_3_Analyze_AB_test_Results.pdf)
+[Project 3 Review 1](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_3_Instructor_Review_1.pdf)
+[Project 3 Review 2](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_3_Instructor_Review_2.pdf)
+[Project 3 Review 3](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_3_Instructor_Review_3.pdf)
+
+#### Project 4 - Wrangle and Analyze Data (Work In Progress)
 
 In this project, the analyst will gather, assess, and clean data then act on it through analysis, visualization and/or modeling using the Twitter platform as it's data source.
+
+Project 4 WIP
 
 #### Project 5 - Communicate Data Findings
 
