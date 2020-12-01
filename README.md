@@ -19,7 +19,7 @@ In this project, the analyst will choose one of Udacity's curated datasets and i
 
 #### Project 3 - Analyze A/B Test Results
 
-In this project, the analyste will be working to understand the results of an A/B test run by an e-commerce website.  They will use the necessary statistical tools required to perform and interpret the A/B test.
+In this project, the analyst will work to understand the results of an A/B test run by an e-commerce website.  They will use the necessary statistical tools required to perform and interpret the A/B test results.
 
 [Project 3 Submittal](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_3_Analyze_AB_test_Results.pdf)
 [Project 3 Review 1](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_3_Instructor_Review_1.pdf)
@@ -30,7 +30,7 @@ In this project, the analyste will be working to understand the results of an A/
 
 In this project, the analyst will gather, assess, and clean data then act on it through analysis, visualization and/or modeling using the Twitter platform as it's data source.
 
-Project 4 WIP
+[Project 4 WIP](https://github.com/stephenbarraza/Udacity-DANd/blob/main/wrangle_act_2.0.ipynb)
 
 #### Project 5 - Communicate Data Findings
 
