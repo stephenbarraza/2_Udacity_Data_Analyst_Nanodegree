@@ -33,7 +33,7 @@ In this project, the analyst will work to understand the results of an A/B test 
 
 In this project, the analyst will gather, assess, and clean data then act on it through analysis, visualization and/or modeling using the Twitter platform as it's data source.
 
-[Project 4 WIP](https://github.com/stephenbarraza/Udacity-DANd/blob/main/wrangle_act_2.0.ipynb)
+[Project 4 Submittal](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_4_Wrangle_and%20Analyze_Data.ipynb)
 
 #### Project 5 - Communicate Data Findings
 
