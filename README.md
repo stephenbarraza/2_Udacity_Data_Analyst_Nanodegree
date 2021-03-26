@@ -45,7 +45,7 @@ In the first part of this project, the analyst will use Python visualization lib
 
 [Project 5 Submittal in Presentation Form](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_5_Data_Visualization_with_Presentation.ipynb)
 
-[Project 5 Review]()
+[Project 5 Review](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_5_Instructor_Review.pdf)
 
 #### Finally,
 
