@@ -41,7 +41,11 @@ In this project, the analyst will gather, assess, and clean data then act on it 
 
 In the first part of this project, the analyst will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. In the second part, the analyst will produce a short presentation that illustrates interesting properties, trends, and relationships that they discovered in their selected dataset. 
 
-[Project 5 Submittal]()
+[Project 5 Submittal](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_5_Data_Visualization.ipynb)
+
+[Project 5 Submittal in Presentation Form]()
+
+[Project 5 Submittal in .html Presentation Form]()
 
 [Project 5 Review]()
 
