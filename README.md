@@ -45,4 +45,6 @@ In the first part of this project, the analyst will use Python visualization lib
 
 [Project 5 Review]()
 
+#### Finally,
+
 Please feel free to comment or contact me for any level of interaction or discussion of these projects, especially if you're in the Udacity DANd program.  There's so much involved in navagating through the seas of Udacity; consider me a safe harbor for discourse.
