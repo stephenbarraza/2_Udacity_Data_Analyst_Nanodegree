@@ -29,12 +29,20 @@ In this project, the analyst will work to understand the results of an A/B test 
 
 [Project 3 Review 3](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_3_Instructor_Review_3.pdf)
 
-#### Project 4 - Wrangle and Analyze Data (Work In Progress)
+#### Project 4 - Wrangle and Analyze Data
 
 In this project, the analyst will gather, assess, and clean data then act on it through analysis, visualization and/or modeling using the Twitter platform as it's data source.
 
 [Project 4 Submittal](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_4_Wrangle_and%20Analyze_Data.ipynb)
 
+[Project 4 Review](https://github.com/stephenbarraza/Udacity-DANd/blob/main/Project_4_Instructor_Review.pdf)
+
 #### Project 5 - Communicate Data Findings
 
 In the first part of this project, the analyst will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. In the second part, the analyst will produce a short presentation that illustrates interesting properties, trends, and relationships that they discovered in their selected dataset. 
+
+[Project 5 Submittal]()
+
+[Project 5 Review]()
+
+Please feel free to comment or contact me for any level of interaction or discussion of these projects, especially if you're in the Udacity DANd program.  There's so much involved in navagating through the seas of Udacity; consider me a safe harbor for discourse.
